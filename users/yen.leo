@@ -100,6 +100,7 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161013142207.1"><vh>@edit 20161013.md</vh></v>
+<v t="leo.20161027163000.1"><vh>@edit 20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -117,6 +118,72 @@
 <v t="leo.20161013141338.5"><vh>Recovered node "HTML 投影片 (標題)" from @clean index.html</vh>
 <v t="leo.20161013141338.6"><vh>old:HTML 投影片 (標題)</vh></v>
 <v t="leo.20161013141338.7"><vh>new:HTML 投影片 (標題)</vh></v>
+</v>
+</v>
+<v t="leo.20161027162952.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161027162952.3"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161027162952.4"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161027162952.5"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20161027162952.6"><vh>Recovered node "三大主題教學" from @clean index.html</vh>
+<v t="leo.20161027162952.7"><vh>old:三大主題教學</vh></v>
+<v t="leo.20161027162952.8"><vh>new:三大主題教學</vh></v>
+</v>
+<v t="leo.20161027162952.9"><vh>Recovered node "主題教學" from @clean index.html</vh>
+<v t="leo.20161027162952.10"><vh>old:主題教學</vh></v>
+<v t="leo.20161027162952.11"><vh>new:主題教學</vh></v>
+</v>
+<v t="leo.20161027162952.12"><vh>Recovered node "機械設計主題教學" from @clean index.html</vh>
+<v t="leo.20161027162952.13"><vh>old:機械設計主題教學</vh></v>
+<v t="leo.20161027162952.14"><vh>new:機械設計主題教學</vh></v>
+</v>
+<v t="leo.20161027162952.15"><vh>Recovered node "創造力元素" from @clean index.html</vh>
+<v t="leo.20161027162952.16"><vh>old:創造力元素</vh></v>
+<v t="leo.20161027162952.17"><vh>new:創造力元素</vh></v>
+</v>
+<v t="leo.20161027162952.18"><vh>Recovered node "創造能力三元素" from @clean index.html</vh>
+<v t="leo.20161027162952.19"><vh>old:創造能力三元素</vh></v>
+<v t="leo.20161027162952.20"><vh>new:創造能力三元素</vh></v>
+</v>
+<v t="leo.20161027162952.21"><vh>Recovered node "六種表達" from @clean index.html</vh>
+<v t="leo.20161027162952.22"><vh>old:六種表達</vh></v>
+<v t="leo.20161027162952.23"><vh>new:六種表達</vh></v>
+</v>
+<v t="leo.20161027162952.24"><vh>Recovered node "創造能力三元素" from @clean index.html</vh>
+<v t="leo.20161027162952.25"><vh>old:創造能力三元素</vh></v>
+<v t="leo.20161027162952.26"><vh>new:創造能力三元素</vh></v>
+</v>
+<v t="leo.20161027162952.27"><vh>Recovered node "協同設計" from @clean index.html</vh>
+<v t="leo.20161027162952.28"><vh>old:協同設計</vh></v>
+<v t="leo.20161027162952.29"><vh>new:協同設計</vh></v>
+</v>
+<v t="leo.20161027162952.30"><vh>Recovered node "融入協同設計" from @clean index.html</vh>
+<v t="leo.20161027162952.31"><vh>old:融入協同設計</vh></v>
+<v t="leo.20161027162952.32"><vh>new:融入協同設計</vh></v>
+</v>
+<v t="leo.20161027162952.33"><vh>Recovered node "MD 投影片 (標題)" from @clean index.html</vh>
+<v t="leo.20161027162952.34"><vh>old:MD 投影片 (標題)</vh></v>
+<v t="leo.20161027162952.35"><vh>new:MD 投影片 (標題)</vh></v>
+</v>
+<v t="leo.20161027162952.36"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20161027162952.37"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20161027162952.38"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20161027162952.39"><vh>Recovered node "計算機程式課程內涵" from @clean index.html</vh>
+<v t="leo.20161027162952.40"><vh>old:計算機程式課程內涵</vh></v>
+<v t="leo.20161027162952.41"><vh>new:計算機程式課程內涵</vh></v>
+</v>
+<v t="leo.20161027162952.42"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20161027162952.43"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20161027162952.44"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20161027162952.45"><vh>Recovered node "github intro" from @clean index.html</vh>
+<v t="leo.20161027162952.46"><vh>old:github intro</vh></v>
+<v t="leo.20161027162952.47"><vh>new:github intro</vh></v>
+</v>
+<v t="leo.20161027162952.48"><vh>Recovered node "fork 與 pull requests" from @clean index.html</vh>
+<v t="leo.20161027162952.49"><vh>old:fork 與 pull requests</vh></v>
+<v t="leo.20161027162952.50"><vh>new:fork 與 pull requests</vh></v>
 </v>
 </v>
 </vnodes>
@@ -210,16 +277,7 @@ print("hello")
 
 					
 </t>
-<t tx="amd.20161004083800.15">&lt;section&gt;
-    &lt;h2&gt;github_intro&lt;/h2&gt;
-    &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
-    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
-    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
+<t tx="amd.20161004083800.15"></t>
 <t tx="amd.20161004083800.158">&lt;section&gt;
     &lt;h2&gt;Export to PDF&lt;/h2&gt;
     &lt;p&gt;
@@ -288,15 +346,7 @@ apply broader style changes, like switching the page background.
 &lt;/head&gt;
 
 </t>
-<t tx="amd.20161004083800.21">&lt;section&gt;
-    &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
-    &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
-    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
-    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
+<t tx="amd.20161004083800.21">&lt;/section&gt;
 </t>
 <t tx="amd.20161004083800.27">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
@@ -455,7 +505,7 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CADPA 課程40423106
+<t tx="amd.20161004095719.2"># 2016Fall CADPA 課程40423106 王翔佑
 
 ### 四設計二甲
 
@@ -483,21 +533,9 @@ and images can be specified like so:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 </t>
-<t tx="amd.20161004101327.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
+<t tx="amd.20161004101327.1">@others
 </t>
-<t tx="amd.20161004101327.2">## 使用 iframe 導入影片
-
-### Markdown 沒有 iframe
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+<t tx="amd.20161004101327.2"></t>
 <t tx="amd.20161004101902.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -513,110 +551,80 @@ and images can be specified like so:
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="amd.20161004104641.1">
+						
 @others
-    &lt;/script&gt;
+	&lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="amd.20161004104641.2"># 機械設計主題教學
+<t tx="amd.20161004104641.2">&lt;/section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 　零件繪圖練習
+#
 
-### 1. 強化創造能力 
-(Creative Competencies, CC1-3)
-### 2. 熟習六種表達 
-(Six Presentation Methods, SP1-6)
-### 3. 融入協同設計 
-(Collaborative Designs, CD1-4)
 
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
 </t>
-<t tx="amd.20161004104820.1">&lt;section&gt;
+<t tx="amd.20161004104820.1">
 @others
-&lt;/section&gt;
 </t>
 <t tx="amd.20161004104904.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
-    &lt;/script&gt;
+&lt;p&gt;到自己的github創2016fallcadp_hw&lt;/p&gt;
+
+&lt;p&gt;創 2016fallcadp_ag4(組別)&lt;/p&gt;
+
+&lt;p&gt;將2016fallcadp_ag4 clone下來&lt;/p&gt;
+</t>
+<t tx="amd.20161004104904.2"># 上課筆記
+
+
+##9/22筆記
+
+&lt;p&gt;到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+
+</t>
+<t tx="amd.20161004105131.1">    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004104904.2"># 強化創造能力
-
-創造力至少包含三種元素:
-### 1. 自學能力 (CC1, Self-learning)
-### 2. 程式能力 (CC2, Programming)
-### 3. 想像能力 (CC3, Imagination)
-
-</t>
-<t tx="amd.20161004105131.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
 
+&lt;p&gt;git submodule add -b gh-pages 網址 學號&lt;/p&gt;
+
+&lt;p&gt;git staus&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="amd.20161004105131.2">
 
 						
-</t>
-<t tx="amd.20161004105131.2"># 機械設計六種表達
+&lt;section&gt;
+&lt;p&gt;cd 2016fallcadp_ag4&lt;/p&gt;
 
-### 1. 口語表達 (SP1, Oral Presentation)
-### 2. 文字表達 (SP2, Text Presentation)
-### 3. 2D 表達 (SP3, 2D Presentation)
-### 4. 3D 表達 (SP4, 3D Presentation)
-### 5. 理論表達 (SP5, Analytical Presentation)
-### 6. 實體表達 (SP6, Physical Presentation)
+&lt;p&gt;git checkout gh-pages&lt;/p&gt;
 
+&lt;p&gt;git branch(再次檢查)&lt;/p&gt;
 </t>
-<t tx="amd.20161004105716.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="amd.20161004105716.1">&lt;section&gt;
+&lt;p&gt;依序將組員的資料夾加入&lt;/p&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
-<t tx="amd.20161004105716.2"># 融入協同設計
+<t tx="amd.20161004105716.2">
+&lt;p&gt;git add -A&lt;/p&gt;
 
-如何融入協同產品設計?
+&lt;p&gt;git commit -m "名稱"&lt;/p&gt;
 
-### 1. 了解電腦 (CD1, Computer)
-### 2. 了解網路 (CD2, Network)
-### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
-### 4. 執行協同專案 (CD4, Project)
+&lt;p&gt;git push origin gh-pages&lt;/p&gt;
 
-
+&lt;p&gt;&lt;/p&gt;
 </t>
-<t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
+<t tx="amd.20161004112026.1">@others
 </t>
-<t tx="amd.20161004112026.2">## 電腦輔助設計實習課程
-
-電腦輔助設計實習的教學主題:
-
-  * CC1-自學能力 (Git, Github, Python)
-  * CC2-程式能力 (Python 機構模擬運算)
-  * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
-  * P2-文字表達 (Wiki 與 Blog on Github Pages)
-  * SP3-2D 表達 (2D 零件工程圖)
-  * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
-  * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
-  * SP6-實體模型 (3D 列印, 機構組立)
-  * CD3-協同工具 (Git, Leo Editor 與 Github)
-  * CD4-協同專案 (OnShape 協同設計專案)
-
-</t>
+<t tx="amd.20161004112026.2"></t>
 <t tx="amd.20161004171423.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -810,6 +818,470 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20161013141338.7">
+</t>
+<t tx="leo.20161027162952.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.11">
+						
+@others
+	&lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.12">(uncached) amd.20161004104641.2
+Diff...
++ # 機械設計主題教學
+- &lt;/section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 　零件繪圖練習
+- #
+  
++ ### 1. 強化創造能力 
++ (Creative Competencies, CC1-3)
++ ### 2. 熟習六種表達 
++ (Six Presentation Methods, SP1-6)
++ ### 3. 融入協同設計 
++ (Collaborative Designs, CD1-4)
+  
+- &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+- &lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
+</t>
+<t tx="leo.20161027162952.13"># 機械設計主題教學
+
+### 1. 強化創造能力 
+(Creative Competencies, CC1-3)
+### 2. 熟習六種表達 
+(Six Presentation Methods, SP1-6)
+### 3. 融入協同設計 
+(Collaborative Designs, CD1-4)
+
+</t>
+<t tx="leo.20161027162952.14">&lt;/section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 　零件繪圖練習
+#
+
+
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
+</t>
+<t tx="leo.20161027162952.15">(uncached) amd.20161004104904.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
+- &lt;p&gt;到自己的github創2016fallcadp_hw&lt;/p&gt;
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
+- &lt;p&gt;創 2016fallcadp_ag4(組別)&lt;/p&gt;
+  
+- &lt;p&gt;將2016fallcadp_ag4 clone下來&lt;/p&gt;
++ 						
+</t>
+<t tx="leo.20161027162952.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.17">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+&lt;p&gt;到自己的github創2016fallcadp_hw&lt;/p&gt;
+
+&lt;p&gt;創 2016fallcadp_ag4(組別)&lt;/p&gt;
+
+&lt;p&gt;將2016fallcadp_ag4 clone下來&lt;/p&gt;
+</t>
+<t tx="leo.20161027162952.18">(uncached) amd.20161004104904.2
+Diff...
+- # 上課筆記
++ # 強化創造能力
+  
++ 創造力至少包含三種元素:
++ ### 1. 自學能力 (CC1, Self-learning)
++ ### 2. 程式能力 (CC2, Programming)
++ ### 3. 想像能力 (CC3, Imagination)
+  
+- ##9/22筆記
+- 
+- &lt;p&gt;到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+- 
+</t>
+<t tx="leo.20161027162952.19"># 強化創造能力
+
+創造力至少包含三種元素:
+### 1. 自學能力 (CC1, Self-learning)
+### 2. 程式能力 (CC2, Programming)
+### 3. 想像能力 (CC3, Imagination)
+
+</t>
+<t tx="leo.20161027162952.2"></t>
+<t tx="leo.20161027162952.20"># 上課筆記
+
+
+##9/22筆記
+
+&lt;p&gt;到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+
+</t>
+<t tx="leo.20161027162952.21">(uncached) amd.20161004105131.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+- @others
+  
+- &lt;p&gt;git submodule add -b gh-pages 網址 學號&lt;/p&gt;
+  
++ 						
+- &lt;p&gt;git staus&lt;/p&gt;
+- &lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.23">    &lt;/script&gt;
+&lt;/section&gt;
+@others
+
+&lt;p&gt;git submodule add -b gh-pages 網址 學號&lt;/p&gt;
+
+&lt;p&gt;git staus&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.24">(uncached) amd.20161004105131.2
+Diff...
++ # 機械設計六種表達
+  
++ ### 1. 口語表達 (SP1, Oral Presentation)
++ ### 2. 文字表達 (SP2, Text Presentation)
++ ### 3. 2D 表達 (SP3, 2D Presentation)
++ ### 4. 3D 表達 (SP4, 3D Presentation)
++ ### 5. 理論表達 (SP5, Analytical Presentation)
++ ### 6. 實體表達 (SP6, Physical Presentation)
+  
+- 						
+- &lt;section&gt;
+- &lt;p&gt;cd 2016fallcadp_ag4&lt;/p&gt;
+- 
+- &lt;p&gt;git checkout gh-pages&lt;/p&gt;
+- 
+- &lt;p&gt;git branch(再次檢查)&lt;/p&gt;
+</t>
+<t tx="leo.20161027162952.25"># 機械設計六種表達
+
+### 1. 口語表達 (SP1, Oral Presentation)
+### 2. 文字表達 (SP2, Text Presentation)
+### 3. 2D 表達 (SP3, 2D Presentation)
+### 4. 3D 表達 (SP4, 3D Presentation)
+### 5. 理論表達 (SP5, Analytical Presentation)
+### 6. 實體表達 (SP6, Physical Presentation)
+
+</t>
+<t tx="leo.20161027162952.26">
+
+						
+&lt;section&gt;
+&lt;p&gt;cd 2016fallcadp_ag4&lt;/p&gt;
+
+&lt;p&gt;git checkout gh-pages&lt;/p&gt;
+
+&lt;p&gt;git branch(再次檢查)&lt;/p&gt;
+</t>
+<t tx="leo.20161027162952.27">(uncached) amd.20161004105716.1
+Diff...
+- &lt;section&gt;
+- &lt;p&gt;依序將組員的資料夾加入&lt;/p&gt;
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161027162952.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.29">&lt;section&gt;
+&lt;p&gt;依序將組員的資料夾加入&lt;/p&gt;
+@others
+</t>
+<t tx="leo.20161027162952.3">(uncached) amd.20161004095719.2
+Diff...
+- # 2016Fall CADPA 課程40423106 王翔佑
+?                            ----
++ # 2016Fall CADPA 課程40423106
+  
+  ### 四設計二甲
+  
+  &lt;small&gt;
+  Created by [Hakim El Hattab](http://hakim.se)
+  [@hakimel](http://twitter.com/hakimel)
+  &lt;/small&gt;
+  
+  [blog](blog/index.html)
+</t>
+<t tx="leo.20161027162952.30">(uncached) amd.20161004105716.2
+Diff...
++ # 融入協同設計
+  
+- &lt;p&gt;git add -A&lt;/p&gt;
++ 如何融入協同產品設計?
+  
+- &lt;p&gt;git commit -m "名稱"&lt;/p&gt;
++ ### 1. 了解電腦 (CD1, Computer)
++ ### 2. 了解網路 (CD2, Network)
++ ### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
++ ### 4. 執行協同專案 (CD4, Project)
+  
+- &lt;p&gt;git push origin gh-pages&lt;/p&gt;
+  
+- &lt;p&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20161027162952.31"># 融入協同設計
+
+如何融入協同產品設計?
+
+### 1. 了解電腦 (CD1, Computer)
+### 2. 了解網路 (CD2, Network)
+### 3. 了解協同設計適用之軟硬體工具 (CD3, Tools)
+### 4. 執行協同專案 (CD4, Project)
+
+
+</t>
+<t tx="leo.20161027162952.32">
+&lt;p&gt;git add -A&lt;/p&gt;
+
+&lt;p&gt;git commit -m "名稱"&lt;/p&gt;
+
+&lt;p&gt;git push origin gh-pages&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20161027162952.33">(uncached) amd.20161004101327.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161027162952.34">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.35">@others
+</t>
+<t tx="leo.20161027162952.36">(uncached) amd.20161004101327.2
+Diff...
++ ## 使用 iframe 導入影片
++ 
++ ### Markdown 沒有 iframe
++ 
++ &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161027162952.37">## 使用 iframe 導入影片
+
+### Markdown 沒有 iframe
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161027162952.38"></t>
+<t tx="leo.20161027162952.39">(uncached) amd.20161004112026.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161027162952.4"># 2016Fall CADPA 課程40423106
+
+### 四設計二甲
+
+&lt;small&gt;
+Created by [Hakim El Hattab](http://hakim.se)
+[@hakimel](http://twitter.com/hakimel)
+&lt;/small&gt;
+
+[blog](blog/index.html)
+</t>
+<t tx="leo.20161027162952.40">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027162952.41">@others
+</t>
+<t tx="leo.20161027162952.42">(uncached) amd.20161004112026.2
+Diff...
++ ## 電腦輔助設計實習課程
++ 
++ 電腦輔助設計實習的教學主題:
++ 
++   * CC1-自學能力 (Git, Github, Python)
++   * CC2-程式能力 (Python 機構模擬運算)
++   * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
++   * P2-文字表達 (Wiki 與 Blog on Github Pages)
++   * SP3-2D 表達 (2D 零件工程圖)
++   * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
++   * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
++   * SP6-實體模型 (3D 列印, 機構組立)
++   * CD3-協同工具 (Git, Leo Editor 與 Github)
++   * CD4-協同專案 (OnShape 協同設計專案)
++ 
+</t>
+<t tx="leo.20161027162952.43">## 電腦輔助設計實習課程
+
+電腦輔助設計實習的教學主題:
+
+  * CC1-自學能力 (Git, Github, Python)
+  * CC2-程式能力 (Python 機構模擬運算)
+  * SP1-口語表達 (自拍投影片 on Vimeo and Youtube)
+  * P2-文字表達 (Wiki 與 Blog on Github Pages)
+  * SP3-2D 表達 (2D 零件工程圖)
+  * SP4-3D 表達 (自拍操作影片, Solvespace, OnShape)
+  * SP5-理論分析 (四連桿, NutCracker, 3D printer 機構分析)
+  * SP6-實體模型 (3D 列印, 機構組立)
+  * CD3-協同工具 (Git, Leo Editor 與 Github)
+  * CD4-協同專案 (OnShape 協同設計專案)
+
+</t>
+<t tx="leo.20161027162952.44"></t>
+<t tx="leo.20161027162952.45">(uncached) amd.20161004083800.15
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;github_intro&lt;/h2&gt;
++     &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++     &lt;p&gt;
++     &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
++     &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
++     &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
++     &lt;/p&gt;
++ &lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.46">&lt;section&gt;
+    &lt;h2&gt;github_intro&lt;/h2&gt;
+    &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;
+    &lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from 
+    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
+    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.47"></t>
+<t tx="leo.20161027162952.48">(uncached) amd.20161004083800.21
+Diff...
++ &lt;section&gt;
++     &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
++     &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++     &lt;p&gt;
++     &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
++     &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
++     &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
++     &lt;/p&gt;
+  &lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.49">&lt;section&gt;
+    &lt;h2&gt;fork_pull_requests&lt;/h2&gt;
+    &lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;
+    &lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from 
+    &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on 
+    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.5"># 2016Fall CADPA 課程40423106 王翔佑
+
+### 四設計二甲
+
+&lt;small&gt;
+Created by [Hakim El Hattab](http://hakim.se)
+[@hakimel](http://twitter.com/hakimel)
+&lt;/small&gt;
+
+[blog](blog/index.html)
+</t>
+<t tx="leo.20161027162952.50">&lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.6">(uncached) amd.20161004104820.1
+Diff...
+- 
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.7">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027162952.8">
+@others
+</t>
+<t tx="leo.20161027162952.9">(uncached) amd.20161004104641.1
+Diff...
+- 
+- 						
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+- 	&lt;/script&gt;
+? ^
++     &lt;/script&gt;
+? ^^^^
+  &lt;/section&gt;
+  
+  
+  						
 </t>
 </tnodes>
 </leo_file>
