@@ -186,6 +186,12 @@
 <v t="leo.20161027162952.50"><vh>new:fork 與 pull requests</vh></v>
 </v>
 </v>
+<v t="leo.20161103153732.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161103153732.2"><vh>Recovered node "機械設計主題教學" from @clean index.html</vh>
+<v t="leo.20161103153732.3"><vh>old:機械設計主題教學</vh></v>
+<v t="leo.20161103153732.4"><vh>new:機械設計主題教學</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -568,7 +574,7 @@ and images can be specified like so:
 
 
 &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
+&lt;h5&gt;這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/h5&gt;
 </t>
 <t tx="amd.20161004104820.1">
 @others
@@ -1282,6 +1288,40 @@ Diff...
   
   
   						
+</t>
+<t tx="leo.20161103153732.1"></t>
+<t tx="leo.20161103153732.2">(uncached) amd.20161004104641.2
+Diff...
+  &lt;/section&gt;
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  ## 　零件繪圖練習
+  #
+  
+  
+  &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+- &lt;h5&gt;這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/h5&gt;
++ &lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
+</t>
+<t tx="leo.20161103153732.3">&lt;/section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 　零件繪圖練習
+#
+
+
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h5&gt;這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/h5&gt;
+</t>
+<t tx="leo.20161103153732.4">&lt;/section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 　零件繪圖練習
+#
+
+
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h5&gt;這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/h5&gt;
 </t>
 </tnodes>
 </leo_file>
