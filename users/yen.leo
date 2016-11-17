@@ -101,6 +101,7 @@
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161013142207.1"><vh>@edit 20161013.md</vh></v>
 <v t="leo.20161027163000.1"><vh>@edit 20161027.md</vh></v>
+<v t="leo.20161117154858.1"><vh>@edit 20161117.md</vh></v>
 </v>
 </v>
 </v>
@@ -190,6 +191,12 @@
 <v t="leo.20161103153732.2"><vh>Recovered node "機械設計主題教學" from @clean index.html</vh>
 <v t="leo.20161103153732.3"><vh>old:機械設計主題教學</vh></v>
 <v t="leo.20161103153732.4"><vh>new:機械設計主題教學</vh></v>
+</v>
+</v>
+<v t="leo.20161117154840.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161117154840.3"><vh>Recovered node "投影片" from @clean index.html</vh>
+<v t="leo.20161117154840.4"><vh>old:投影片</vh></v>
+<v t="leo.20161117154840.5"><vh>new:投影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -356,6 +363,17 @@ apply broader style changes, like switching the page background.
 </t>
 <t tx="amd.20161004083800.27">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;四連桿&lt;/p&gt;
+
+&lt;a href="http://imgur.com/gUi0Uuf"&gt;&lt;img src="http://i.imgur.com/gUi0Uuf.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
 @others
 &lt;/section&gt;
 </t>
@@ -1322,6 +1340,46 @@ Diff...
 
 &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;h5&gt;這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/h5&gt;
+</t>
+<t tx="leo.20161117154840.2"></t>
+<t tx="leo.20161117154840.3">(uncached) amd.20161004083800.27
+Diff...
+  &lt;!-- Example of nested vertical slides --&gt;
+  &lt;section&gt;
+- 
+- 
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- &lt;p&gt;四連桿&lt;/p&gt;
+- 
+- &lt;a href="http://imgur.com/gUi0Uuf"&gt;&lt;img src="http://i.imgur.com/gUi0Uuf.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- &lt;/section&gt;
+  @others
+  &lt;/section&gt;
+</t>
+<t tx="leo.20161117154840.4">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161117154840.5">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;四連桿&lt;/p&gt;
+
+&lt;a href="http://imgur.com/gUi0Uuf"&gt;&lt;img src="http://i.imgur.com/gUi0Uuf.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+@others
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
