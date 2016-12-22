@@ -105,6 +105,7 @@
 <v t="leo.20161124153814.1"><vh>@edit 20161124.md</vh></v>
 <v t="leo.20161208170805.1"><vh>@edit 20161201.md</vh></v>
 <v t="leo.20161215151208.1"><vh>@edit 20161215.md</vh></v>
+<v t="leo.20161222143834.1"><vh>@edit 20161222.md</vh></v>
 </v>
 </v>
 </v>
@@ -200,6 +201,12 @@
 <v t="leo.20161117154840.3"><vh>Recovered node "投影片" from @clean index.html</vh>
 <v t="leo.20161117154840.4"><vh>old:投影片</vh></v>
 <v t="leo.20161117154840.5"><vh>new:投影片</vh></v>
+</v>
+</v>
+<v t="leo.20161222143810.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161222143810.3"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
+<v t="leo.20161222143810.4"><vh>old:iframe 導入影片</vh></v>
+<v t="leo.20161222143810.5"><vh>new:iframe 導入影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -572,11 +579,14 @@ and images can be specified like so:
 
 						
 </t>
-<t tx="amd.20161004101902.2">## 使用 iframe 導入影片
+<t tx="amd.20161004101902.2">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 
-### Markdown 沒有 iframe
+&lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+
+&lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
+&lt;p&gt;&lt;img src="./../w7/1117.png" width="800" /&gt;&lt;/p&gt;&lt;/p&gt;
 </t>
 <t tx="amd.20161004104641.1">
 						
@@ -1383,6 +1393,36 @@ Diff...
 &lt;/section&gt;
 @others
 &lt;/section&gt;
+</t>
+<t tx="leo.20161222143810.2"></t>
+<t tx="leo.20161222143810.3">(uncached) amd.20161004101902.2
+Diff...
+- &lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
++ ## 使用 iframe 導入影片
+  
+- &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
++ ### Markdown 沒有 iframe
+  
++ &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+- 
+- &lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
+- &lt;p&gt;&lt;img src="./../w7/1117.png" width="800" /&gt;&lt;/p&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20161222143810.4">## 使用 iframe 導入影片
+
+### Markdown 沒有 iframe
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161222143810.5">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
+
+&lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
+
+&lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+
+&lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
+&lt;p&gt;&lt;img src="./../w7/1117.png" width="800" /&gt;&lt;/p&gt;&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
