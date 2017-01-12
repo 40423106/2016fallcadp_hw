@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T02:00:00+08:00</updated><entry><title>1-12 電腦輔助設計實習課程總結</title><link href="./1-12-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T02:00:00+08:00</published><updated>2017-01-12T02:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2017-01-12:./1-12-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary></entry><entry><title>1-5 點名</title><link href="./1-5-dian-ming.html" rel="alternate"></link><published>2017-01-05T02:00:00+08:00</published><updated>2017-01-05T02:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2017-01-05:./1-5-dian-ming.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary></entry><entry><title>12-22作業</title><link href="./12-22zuo-ye.html" rel="alternate"></link><published>2016-12-22T12:00:00+08:00</published><updated>2016-12-22T12:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2016-12-22:./12-22zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T02:00:00+08:00</updated><entry><title>1-12 電腦輔助設計實習課程總結</title><link href="./1-12-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T02:00:00+08:00</published><updated>2017-01-12T02:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2017-01-12:./1-12-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;2016-11-17
+&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
+
+&lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+
+&lt;p&gt;根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.
+&lt;p&gt;&lt;img src="./../w7/1117.png" width="800" /&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="./../w7/1117-2.png" width="800" /&gt;&lt;/p&gt;
+
+&lt;p&gt;2016-11-24&lt;/p&gt;
+&lt;h2&gt;Solvespace&lt;/h2&gt;
+&lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
+&lt;p&gt;範例檔案: &lt;a href="http://solvespace.com/bracket.pl"&gt;http://solvespace.com/bracket.pl&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Extrude (平行長出或除料)&lt;/h4&gt;
+&lt;iframe src="./../w7/121.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Lathe (旋轉繞行長出或除料)&lt;/h4&gt;
+&lt;h4&gt;Export Triangle Mesh&lt;/h4&gt;
+&lt;p&gt;STL 格式&lt;/p&gt;
+&lt;p&gt;three.js&lt;/p&gt;
+&lt;iframe src="./../w7/1124-6.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
+&lt;h3&gt;3. Linkages (fourbar &amp;amp; multilink) (四連桿與多連桿運動模擬)&lt;/h3&gt;
+&lt;h3&gt;4. Compiled &amp;amp; API (編譯與延伸應用)&lt;/h3&gt;
+&lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用.&lt;/p&gt;
+&lt;p&gt;Virtualbox Ubuntu 64位元虛擬檔案: http://140.130.17.17/public/Ubuntu/1604_solvespace_final/Ubuntu_160464.vdi (只有在區網可以下載)&lt;/p&gt;
+&lt;p&gt;在虛擬主機中完成 Solvespace 編譯與執行的參考畫面:
+&lt;iframe src="./../w7/1124-3.png" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;2016-12-1&lt;/p&gt;
+&lt;h2&gt;Solvespace&lt;/h2&gt;
+&lt;h3&gt;1. Solvespace 組合圖&lt;/h3&gt;
+&lt;iframe src="./../w7/128.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2016-12-22
+ ## 3D列印
+&lt;iframe src="./../w7/3d/20161222.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;支柱&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w7/3d/20161217-1.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;連接桿&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w7/3d/20161217.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;底盤&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w7/3d/20161217-5.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;圓盤&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="./../w7/3d/20161217-3.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854427" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/190854427"&gt;2016 11 09 20 05 42 998&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854371" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/190854371"&gt;2016 11 09 20 04 08 141&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary></entry><entry><title>1-5 點名</title><link href="./1-5-dian-ming.html" rel="alternate"></link><published>2017-01-05T02:00:00+08:00</published><updated>2017-01-05T02:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2017-01-05:./1-5-dian-ming.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary></entry><entry><title>12-22作業</title><link href="./12-22zuo-ye.html" rel="alternate"></link><published>2016-12-22T12:00:00+08:00</published><updated>2016-12-22T12:00:00+08:00</updated><author><name>40423106</name></author><id>tag:,2016-12-22:./12-22zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;3D列印&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="./../w7/3d/20161222.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
